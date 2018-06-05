@@ -1,0 +1,10 @@
+title = "10-in-1: Arcade Collection"
+description = "Compilation arcade game\n\nGamelion Studios"
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000E7300"
+region = "eur"
+release_date = "2013-08-15"
